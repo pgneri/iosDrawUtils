@@ -1,6 +1,6 @@
 //
 //  DrawCornerCustom.swift
-//  Ipd
+//  pgneri
 //
 //  Created by Patricia Gabriele Neri on 02/05/2018.
 //  Copyright © 2018 pgneri. All rights reserved.
